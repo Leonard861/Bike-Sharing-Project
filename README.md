@@ -14,3 +14,9 @@ Tasks :
 
 Results :
 Successfully determined the daily performance of bike-sharing over a 2-year period and analyzed the impact of weather on daily bike-sharing usage
+
+Skills Developed :
+•	Python
+•	Data Cleaning
+•	Exploratory Data Analysis (EDA)
+•	Data Visualization
